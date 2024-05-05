@@ -157,6 +157,7 @@ main .profile-container .profile .text{
 main .content p{
     color: #5b5963;
     margin: 1rem 0;
+    text-align: justify; /* ເຮັດໃຫ້ຕົວໜັງສືຟາກຂາວ-ຊ້າຍຕິດຂອບສະເໝີກັນ */
 }
 
 main .content h4{
