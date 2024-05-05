@@ -300,6 +300,7 @@ blockquote{
 
 .cards .card-container .card-text p{
     font-size: 1.2rem;
+    text-align: justify; /* ເຮັດໃຫ້ຕົວໜັງສືຟາກຂາວ-ຊ້າຍຕິດຂອບສະເໝີກັນ */
 }
 
 .articles .button{
